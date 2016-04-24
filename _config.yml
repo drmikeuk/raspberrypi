@@ -1,7 +1,7 @@
 # Site settings
 port: 4004
 title: Adventures with my Pi
-header-img: img/home-bg.jpg
+header-img: img/pi-bg.jpg
 email: drmikegardner@gmail.com
 copyright_name: Mike Gardner
 description: "Documenting projects with my Raspberry Pi"
