@@ -1,0 +1,19 @@
+# Site settings
+port: 4004
+title: Adventures with my Pi
+header-img: img/home-bg.jpg
+email: drmikegardner@gmail.com
+copyright_name: Mike Gardner
+description: "Documenting projects with my Raspberry Pi"
+baseurl: ""
+url: "http://mikegardner.me.uk/pi"
+email_username:  drmikegardner@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

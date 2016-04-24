@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "Purchase"
+subtitle:   "My first steps..."
+date:       2016-04-24 12:00:00
+header-img: "img/home-bg.jpg"
+---
+
+These are the things I borrowed & bought:
+
+* the Raspberry Pi 3 (Model B) itself + case
+* the official power supply (as needs to be 5V and 2.5A)
+* a *micro* SD card to hold the operating system (my old Pi 2 takes standard SD cards)
+* a microSD to SD card adapter (so I can access the card from my mac)
+
+### Inputs
+I already have USB keyboard & mouse lying around so will reuse those.
+The Pi comes with wifi on board, but theres also an ethernet port.
+
+### Display
+I've got a 19" LCD that will do 1280x1024, the inputs are DVI and VGA. 
+The Pi has a full size HDMI port so I got a HDMI (male) to DVI (female) adapter so I can attach my existing DVI cable to the Pi
+
+
+Checklist
+---------
+1. Raspberry Pi 3
+1. Power supply
+1. Case
+1. 2x Micro SD card 4-8GB (ideally Sandisk/Kingston/known brand) plus a microSD to SD card adapter (my Kingston card came with one)
+1. USB keyboard
+1. USB mouse
+1. USB thumbdrive (16GB) for extra storage
+1. HDMI - DVI adapter (or maybe HDMI-DVI cable or HDMI-HDMI cable if your monitor has HDMI input)
+

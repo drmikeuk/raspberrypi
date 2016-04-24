@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://mikegardner.me.uk/pi/feed.xml" rel="self" type="application/atom+xml" /><link href="http://mikegardner.me.uk/pi/" rel="alternate" type="text/html" /><updated>2016-04-24T19:56:05+01:00</updated><id>http://mikegardner.me.uk/pi/</id><title>Adventures with my Pi</title><subtitle>Documenting projects with my Raspberry Pi</subtitle><entry><title>Purchase</title><link href="http://mikegardner.me.uk/pi/2016/04/24/purchase/" rel="alternate" type="text/html" title="Purchase" /><published>2016-04-24T13:00:00+01:00</published><updated>2016-04-24T13:00:00+01:00</updated><id>http://mikegardner.me.uk/pi/2016/04/24/purchase</id><content type="html" xml:base="http://mikegardner.me.uk/pi/2016/04/24/purchase/">&lt;p&gt;These are the things I borrowed &amp;amp; bought:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the Raspberry Pi 3 (Model B) itself + case&lt;/li&gt;
+  &lt;li&gt;the official power supply (as needs to be 5V and 2.5A)&lt;/li&gt;
+  &lt;li&gt;a &lt;em&gt;micro&lt;/em&gt; SD card to hold the operating system (my old Pi 2 takes standard SD cards)&lt;/li&gt;
+  &lt;li&gt;a microSD to SD card adapter (so I can access the card from my mac)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;inputs&quot;&gt;Inputs&lt;/h3&gt;
+&lt;p&gt;I already have USB keyboard &amp;amp; mouse lying around so will reuse those.
+The Pi comes with wifi on board, but theres also an ethernet port.&lt;/p&gt;
+
+&lt;h3 id=&quot;display&quot;&gt;Display&lt;/h3&gt;
+&lt;p&gt;I’ve got a 19” LCD that will do 1280x1024, the inputs are DVI and VGA. 
+The Pi has a full size HDMI port so I got a HDMI (male) to DVI (female) adapter so I can attach my existing DVI cable to the Pi&lt;/p&gt;
+
+&lt;h2 id=&quot;checklist&quot;&gt;Checklist&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Raspberry Pi 3&lt;/li&gt;
+  &lt;li&gt;Power supply&lt;/li&gt;
+  &lt;li&gt;Case&lt;/li&gt;
+  &lt;li&gt;2x Micro SD card 4-8GB (ideally Sandisk/Kingston/known brand) plus a microSD to SD card adapter (my Kingston card came with one)&lt;/li&gt;
+  &lt;li&gt;USB keyboard&lt;/li&gt;
+  &lt;li&gt;USB mouse&lt;/li&gt;
+  &lt;li&gt;USB thumbdrive (16GB) for extra storage&lt;/li&gt;
+  &lt;li&gt;HDMI - DVI adapter (or maybe HDMI-DVI cable or HDMI-HDMI cable if your monitor has HDMI input)&lt;/li&gt;
+&lt;/ol&gt;</content><summary>These are the things I borrowed &amp;amp; bought:</summary></entry></feed>
