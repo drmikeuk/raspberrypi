@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: drmikegardner@gmail.com
 copyright_name: Mike Gardner
 description: "Documenting projects with my Raspberry Pi"
-baseurl: ""
+baseurl: "/raspberrypi"
 url: "http://mikegardner.me.uk/pi"
 email_username:  drmikegardner@gmail.com
 
